@@ -21,9 +21,11 @@ section {
     align-items: center;
 }
 
-section:nth-of-type(1) {
-    background-image:  src="images/leaves.jpg";
-    background-position: center;
+.climate {
+    background: url ('images/leaves.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
 }
 
 

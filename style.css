@@ -7,35 +7,6 @@ html, body {
     color:#222;
 }
 
-* {padding: 0;margin: 0;box-sizing-border-box}
-h2, p {
-    margin-bottom:10px;
-}
-section {
-    padding: 20px;
-    display: flex;
-    flex-direction: column;
-    text-align: justify;
-    height: 100vh;
-    justify-content: center;
-    align-items: center;
-}
-
-.climate {
-    background: url ('images/leaves.jpg') no-repeat center;
-    background-size: cover;
-    background-attachment: fixed;
-    height: 500px;
-}
-
-
-
-
-background-image: url"image/skecth.jpg";
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
-
 .fixed {
     height: 60%;
     width: 60%;

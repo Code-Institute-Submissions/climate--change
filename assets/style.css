@@ -25,7 +25,7 @@ html, body {
 /* End of the size for my Youtube Video */
 
 .lead {
-    padding-top: 3rem;
+    padding-top: 2rem;
 }
 
 .fa-tree {
@@ -90,14 +90,14 @@ color: darkolivegreen
 /* End of Font Awesome for my Footer*/
 
 footer {
-    background:#f1f1f1;
+    background:darkolivegreen;
     padding: 90px 0;
 }
 
 .footer-container {
     max-width: 1300px;
     margin: auto;
-    padding: 0 20px;
+    padding: 50 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -146,8 +146,8 @@ footer {
 .btn {
     padding: 18px 40px;
     font-size: 16px;
-    color: #f1f1f1;
-    background: darkolivegreen;
+    color: darkolivegreen;
+    background: #f1f1f1;
     border: none;
     font-weight: 700;
     outline: none;

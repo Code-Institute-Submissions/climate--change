@@ -39,5 +39,5 @@ I used a few website to get my Background cover as well as the small images that
 * I used (https://fonts.google.com/) for the font style in my project. 
 
 Acknowledgement
-In this project I have used Bootstrap Framework and their Snippet 
-My tutor has been very helpful (Adegbenga Adeye)
+* In this project I have used Bootstrap Framework and their Snippet 
+* My tutor has been very helpful (Adegbenga Adeye)

@@ -66,6 +66,20 @@ margin: 1rem;
 
 /* End of Font Awesome for my Facts */
 
+.iframe-container {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.iframe-conatiner {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
 .display-6 {
 margin: 2rem;
 }

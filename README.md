@@ -2,7 +2,7 @@
 
 This is my first Milestone Project. I have decided to go with the theme Climate Change, as this is an ongoing issue right now and people need to be aware of this and need to make a difference to the world. 
 
-UX
+## UX
 
 * I would like the user to easily access my website and gain the knowledge about Climate Change in a few details instead of having a lot of information. I have kept it small, neat and minimal. 
 

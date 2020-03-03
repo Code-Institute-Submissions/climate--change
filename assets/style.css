@@ -1,12 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 @import url('http://fonts.googleapis.com/css?family=Open+Sans:400,700');
-
+ /* HTML Body */
 html, body {
     height: 100%;
     width: 100%;
     font-family: 'Montserrat', sans-serif;
     color:#222;
 }
+
+/* End of HTML Body */ 
+
 /* Beginning of the NavBar*/
 
 .navbar {
@@ -34,6 +37,7 @@ html, body {
 .lead {
     padding-top: 2rem;
 }
+/* Start of Font Awesome for my Facts */ 
 
 .fa-tree {
 color:darkgreen
@@ -59,6 +63,8 @@ color:saddlebrown
 font-size: 4em;
 margin: 1rem;
 }
+
+/* End of Font Awesome for my Facts */
 
 .display-6 {
 margin: 2rem;
@@ -96,6 +102,7 @@ color: #D2691E
 
 /* End of Font Awesome for my Footer*/
  
+ /* Start of my Footer */
 *{
 	padding:0;
 	margin:0;
@@ -303,3 +310,5 @@ footer{
 	}
  
 }
+
+/* End of my Footer */
